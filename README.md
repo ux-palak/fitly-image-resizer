@@ -48,6 +48,4 @@ app.js       Prompt parser · image engine · UI
 - **AI mode** is a lightweight, local prompt parser (regex-based). It needs no API key and nothing leaves the device.
   To upgrade it, replace `parsePrompt()` in `app.js` with a call to an LLM that returns `{ kb, width, height, type }`.
 
-## Browser support
-
-Any modern browser (Chrome, Edge, Firefox, Safari 15+). WebP output falls back to JPEG where unsupported.
+Please ⭐ if you find it useful so that I find the motivation to keep improving this. Thanks
