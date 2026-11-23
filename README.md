@@ -51,7 +51,3 @@ app.js       Prompt parser · image engine · UI
 ## Browser support
 
 Any modern browser (Chrome, Edge, Firefox, Safari 15+). WebP output falls back to JPEG where unsupported.
-
-## License
-
-MIT
